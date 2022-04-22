@@ -1,0 +1,2 @@
+module Firstproj {
+}
